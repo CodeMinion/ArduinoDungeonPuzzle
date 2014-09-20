@@ -1,0 +1,3 @@
+ The dungeon puzzle is intended to be an interactive puzzle that players can physically solve, thus increasing the immersion into the game environment.
+
+The general idea behind it was to embed a set of switches on the dungeon floor which when activate in the right sequence would illuminate the statues in the room. This entailed laying LEDs underneath the figurines and pushdown switches bellow the dungeon tiles.
